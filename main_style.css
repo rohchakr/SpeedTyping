@@ -1,5 +1,13 @@
 html,body {
-  height:95%;
+  height: 95%;
 }
 #content {
+  height: 100%;
+  padding: 10px;
+}
+#userInputText {
+  display:block;
+  border:none;
+  background:#e6ccb3;
+  opacity: 0.5;
 }
